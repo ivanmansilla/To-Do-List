@@ -2,10 +2,20 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body{
+  display:flex;
+  background-color: rgb(30, 110, 100);
 }
+
+.App-content{
+  margin: 200px 200px 200px 450px;
+  background-color: rgb(55, 145, 134);
+  border: 2px solid black;
+  
+}
+
+
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

@@ -1,0 +1,30 @@
+#inptEdit{
+    margin: 30px;
+}
+  
+.btnEdit{
+    height: 30px;
+    width: 120px;
+    margin: 20px;
+    background-color: rgba(18, 211, 34, 0.986);
+}
+
+.btnDelete{
+    height: 30px;
+    width: 120px;
+    margin: 20px;
+    background-color: rgba(223, 18, 18, 0.986);
+}
+
+.btnProgress{
+    height: 30px;
+    width: 120px;
+    margin: 20px;
+    background-color: rgba(60, 113, 220, 0.986);
+}
+
+.completed {
+    background-color: green;
+  }
+  
+  
